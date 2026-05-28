@@ -12,9 +12,9 @@ You're able to solve them entirely after finish learning the awesome curriculum 
 
 ## 🎓 About the Curriculum
 
-In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, the **`similar Podcast App (.html, .m4a and .txt)`** within a **.zip** compressed format by **WinRAR** software.
+In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, the **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
 
-I've built the promotional activity for the curriculum. In other words, there has **6** number of episodes (I decided which are paid ...) are **`paid`** (you can find them from []()) in fact you can learn the **extra 60** number of Oracle SQL knowledge skills in this course (they're all **`free`**).
+I've built the promotional activity for the curriculum. In other words, there has total **60** number of episodes (**`11 ... 19, 21 ... 29, 31 ... 39, 41 ... 49, 51 ... 59, 61 ... 69, 71 ... 76`**) are **`free`**. In fact you just master the **extra 6** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $6** from [https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO)).
 
 Here's an image about the **extra 6 number of episodes** when you finished purchasing this course.
 
@@ -26,7 +26,7 @@ Here's an image about the **extra 6 number of episodes** when you finished purch
   - You can directly click each **`link`** in the **`Course Outline`** below.
 
 - **02. How can I learn the paid content?**
-  - You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`correct topic`**) to the **.html running in the browser** in order to listen the Podcast meanwhile you're able to open **.txt** file so that see the **subtitles** of **`Podcast`** whilst learning the similar Podcast App.
+  - You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`correct topic`**) to the **.html running in the browser** in order to listen the Podcast whilst learning the similar Podcast App.
 
 ## 📚 Course Outline
 
